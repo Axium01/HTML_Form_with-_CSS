@@ -9,6 +9,7 @@ div {
 }
 label, option, button, input {
   color: black;
-  font-family: courier;
+  font-family: 'courier';
 }
+
 
