@@ -7,9 +7,15 @@ div {
   padding-bottom: 30px;
   padding-left: 50px;
 }
-label, option, button, input {
+label, option, button, input, select {
   color: black;
   font-family: Courier New;
+}
+
+select {
+  width: 200px;
+  height: 40px;
+  font-size: 16px;
 }
 
 
