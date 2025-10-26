@@ -7,3 +7,8 @@ div {
   padding-bottom: 50px;
   padding-left: 50px;
 }
+label, option, button, input {
+  color: black;
+  font-family: courier;
+}
+
